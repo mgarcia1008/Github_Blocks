@@ -17,8 +17,7 @@ h1{
     
 .row{
     display: flex;
-    justify-content: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin: 20px;
     padding: 20px;
 }
@@ -28,11 +27,12 @@ h1{
 
    .octo2{
     background-color: lightpink;
+    justify-content: space-around;
    }
 
    .octo3{
     background-color: lavender;
-    display: flex;
+
    }
    
 
