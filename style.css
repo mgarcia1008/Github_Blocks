@@ -1,0 +1,39 @@
+.container{
+    width: 960px;
+    height: 860px;
+    background-color: lightgrey;
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+   font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    
+}
+  .catpic{
+    height: 200px;
+    
+   }
+    
+.row{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 20px;
+}
+   .octo1{
+    background-color: lightblue;
+   }
+
+   .octo2{
+    background-color: lightpink;
+   }
+
+   .octo3{
+    background-color: lavender;
+    display: flex;
+   }
+   
+
+
